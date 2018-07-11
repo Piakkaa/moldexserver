@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+ssh moldexcloud@128.199.185.151 -i ~/moldex/moldexkey
